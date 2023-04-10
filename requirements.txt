@@ -1,8 +1,6 @@
 streamlit
-
-streamlit_option_menu
 networkx
-plotly.graph_objects
+plotly
 
 
 
