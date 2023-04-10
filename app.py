@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 page_element="""
 <style>
 [data-testid="stAppViewContainer"]{
-background-image: url("https://www.thewowstyle.com/wp-content/uploads/2021/03/How-to-Select-the-Ideal-Route-Optimization-Software.png");
+background-image: url("");
 background-size: cover;
 }
 [data-testid="stHeader"]{
