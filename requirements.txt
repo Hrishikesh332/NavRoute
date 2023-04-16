@@ -1,8 +1,6 @@
 streamlit
+streamlit_option_menu
+plolty
+pandas
 networkx
-plotly
-
-
-
-
-
+Image
