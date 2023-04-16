@@ -1,6 +1,6 @@
 streamlit
 streamlit_option_menu
-plolty
+plotly
 pandas
 networkx
 Image
