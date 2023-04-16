@@ -363,7 +363,7 @@ if selected=="About Us":
     with col2:
 
         st.header('Tanisha Shaikh')
-        st.image("T.jPG")
+        st.image("T.jpg")
 
     with col3:
         st.header("Ankita Sharma")
